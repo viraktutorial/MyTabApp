@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">MyTabApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_task_fragment">Hello task fragment</string>
+    <string name="hello_event_fragment">Hello event fragment</string>
+    <string name="hello_news_fragment">Hello news fragment</string>
+    <string name="hello">Hello World, StartActivity!</string>
+    <string name="ui_cs_picture">Sudi picture</string>
+    <string name="ui_love_picture">Love picture</string>
+    <!-- Tab Strings -->
+    <string name="ui_tabname_find">find</string>
+    <string name="ui_tabname_chat">chat</string>
+    <string name="ui_tabname_meet">meet</string>
+    <string name="ui_tabname_party">party</string>
+
+    <!-- Menu Strings -->
+    <string name="ui_menu_search">search</string>
+    <string name="ui_menu_send">send</string>
+    <string name="ui_menu_add">add</string>
+    <string name="ui_menu_quit">quit</string>
+    <string name="ui_menu_feedback">feedback</string>
+    <string name="ui_menu_about">about</string>
+    <string name="ui_menu_share">share</string>
+
+    <string name="ui_button_goback_title">go back</string>
+    <string name="ui_profile_name_hint">Your name here</string>
+    <string name="ui_profile_name_title">Name</string>
+    <string name="ui_profile_email_hint">Your Email here</string>
+    <string name="ui_profile_email_title">Email:</string>
+    <string name="ui_profile_phone_hint">Your phone number here</string>
+    <string name="ui_profile_phone_title">Phone:</string>
+    <string name="ui_profile_gender_title">Gender:</string>
+    <string name="ui_profile_gender_male">Male</string>
+    <string name="ui_profile_gender_female">Female</string>
+    <string name="ui_profile_date_title">Date:</string>
+    <string name="ui_profile_date_hint">MM/DD/YYYY</string>
+    <string name="ui_mood_spinner_title">How are you feeling:</string>
+    <string name="ui_profile_department_title">Computer Science Department</string>
+    <string name="ui_profile_device_title">Cellphones</string>
+    <string name="ui_profile_demand_title">I want an A for else ;-)</string>
+    <string name="ui_button_save_title">Save</string>
+    <string name="ui_button_cancel_title">Cancel</string>
+
+    <string-array name="ui_mood_spinner_entries">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Tired</item>
+        <item>Rested</item>
+        <item>Stressed</item>
+        <item>Fair to middling</item>
+        <item>Great</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Movies">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="dialog_fire_missiles">Fire Missiles</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="signin">SignIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
